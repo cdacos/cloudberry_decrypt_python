@@ -15,11 +15,11 @@ git clone git@github.com:cdacos/cloudberry_decrypt_python.git
 ```
 To create the virtualenv:
 ```
-virtualenv cloudberry_decrypt
+virtualenv cloudberry_decrypt_python
 ```
 To start the virtualenv:
 ```
-cd cloudberry_decrypt
+cd cloudberry_decrypt_python
 source bin/activate
 ```
 Install the AWS Python tools :
